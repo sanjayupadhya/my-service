@@ -1,9 +1,4 @@
 print "Hello World V1.2"
 
-print "Secong time"
+print "Secong time - 29 oct"
 
-print "good Night"
-
-print "Third time change"
-
-print "Edited on server"
